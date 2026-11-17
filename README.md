@@ -70,4 +70,4 @@ A course dataset covering January to December 2015, with the product renamed fro
 
 ## Contact
 
-**Douglas Ogieva** | Benin City, Nigeria | [LinkedIn](https://www.linkedin.com/in/douglasogieva) | [Email](mailto:douglasogieva14@gmail.com)
+**Douglas Ogieva** | [LinkedIn](https://www.linkedin.com/in/douglasogieva) | [Email](mailto:douglasogieva14@gmail.com)
